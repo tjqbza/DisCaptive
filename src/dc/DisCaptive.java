@@ -11,7 +11,7 @@ import javafx.stage.Stage;
  * Starts DisCaptive
  * Combines MVC.
  */
-/*Timo Kubitza Matrikelnr. 2794825
+/*
 Wahlpflichtteil: Kraftfelder und Schlösser.
 Zusatzlevel: 31-36
 Level können neu gestartet werden.
